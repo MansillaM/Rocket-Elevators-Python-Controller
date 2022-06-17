@@ -174,7 +174,7 @@ class FloorRequestButton:
         self.status = 'active'
         self.floor = _floor
     
-#Crete Door CLASS
+#Create Door CLASS
 class Door:
     def __init__(self, _id):
         self.ID = _id
